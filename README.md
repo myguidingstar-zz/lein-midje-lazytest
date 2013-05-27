@@ -2,6 +2,8 @@
 
 A meta-package that brings lein-midje and lazytest together.
 
+DEPRECATED: midje no longer depends on lazytest. Now type `lein midje :autotest` instead!
+
 ## Usage
 
 Leiningen startup time is a real hurt for TDD. Marick's midje is a
